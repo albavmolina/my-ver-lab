@@ -1,0 +1,35 @@
+body {
+    margin-top: 20%;
+    margin-left: 30%;
+}
+#grabTitle {
+    width: 500px;
+    height: 40px;
+    color: white;
+    background-color: rgb(147,196,125);
+    text-align: center;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#addSkill {
+    width: 100px;
+    height: 30px;
+    border: solid;
+    border: 1mm ridge rgb(147,196,125);
+    color: rgb(147,196,125);
+    background-color: white;
+}
+
+#enterSkillHere {
+    width: 380px;
+    height: 20px;
+    border: solid;
+    border: 1mm ridge rgb(147,196,125);
+
+
+
+
